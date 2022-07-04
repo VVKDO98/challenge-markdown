@@ -12,7 +12,7 @@ Hi, my name is Doriano, I'm 24 years old.
 | Gender | Human male type |  
 | Favorite color | Blue |
 | Favorite food | Gyros | 
-| Pinneapple on pizza ? | <input type="checkbox" disabled /> Yes <input type="checkbox" disabled checked /> No |  
+| Pinneapple on pizza ? | [ ] Yes [x] No |  
 
 ## Hobbies
 
